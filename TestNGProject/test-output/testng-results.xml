@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[openebd blank browser]]>
+    </line>
+    <line>
+      <![CDATA[went to url ]]>
+    </line>
+  </reporter-output>
+  <suite name="whatever" duration-ms="5672" started-at="2019-09-01T18:43:51Z" finished-at="2019-09-01T18:43:56Z">
+    <groups>
+    </groups>
+    <test name="anything" duration-ms="5672" started-at="2019-09-01T18:43:51Z" finished-at="2019-09-01T18:43:56Z">
+      <class name="com.bit.ui.test.UnitTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.bit.ui.test.UnitTest@457e2f02]" name="test" duration-ms="5652" started-at="2019-09-01T18:43:51Z" finished-at="2019-09-01T18:43:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[openebd blank browser]]>
+            </line>
+            <line>
+              <![CDATA[went to url ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.bit.ui.test.UnitTest -->
+    </test> <!-- anything -->
+  </suite> <!-- whatever -->
+</testng-results>
