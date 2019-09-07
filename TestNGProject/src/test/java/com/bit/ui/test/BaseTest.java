@@ -55,6 +55,7 @@ public class BaseTest {
 	  System.out.println("bc");
 	  System.out.println("read property file");
 	  System.out.println("finished beforeClass");
+	  System.out.println("finished beforeClass");
   }
 
   @AfterClass(groups="ui")
