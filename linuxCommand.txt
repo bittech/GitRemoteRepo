@@ -6,3 +6,4 @@ touch-----create a file
 vi-----editor
 cat-----to view the file
 grep----to get string value from a file
+cd ..-------go back previous folder
